@@ -9,3 +9,5 @@ Tools: I used JSON, SQLite, SQLalchemy, and CSV data to visualize the extensive 
 
 Please take a look at the app version:
 https://bellybio.herokuapp.com/
+
+Last checked July 19th, 2022. For issues with Heroku, please see https://devcenter.heroku.com/categories/reference
